@@ -3,9 +3,9 @@
 ### The goal of this project was to practice:
 
 1. How to export Xiaomi MiBand data 
-2. working with new types of data formats
-3. visualizations
-4. statistics in Python
+2. Working with csv data format
+3. Visualizations
+4. Statistics in Python
 
 ** First, to export your data, sign in to your MiFit account (https://mifit.huami.com/t/account_mifit) or API (https://api-mifit.huami.com/t/account_mifit) and select Export data.
 
